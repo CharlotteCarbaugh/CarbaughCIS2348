@@ -1,5 +1,5 @@
-#Charlotte Carbaugh, 2021SP-18349-CIS2348-Information Systems Application Development
-#Homework 1-Coding Problem 1
+#Charlotte Carbaugh, Student ID #1815532
+
 
 print("Birthday Calculator\nCurrent Day")
 current_month = int(input("Month:"))
