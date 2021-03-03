@@ -7,7 +7,7 @@ while y < len(new_str):
     if new_str[y] == new_str[-1-y]:
         y += 1
     else:
-        print(new_str, "is not a palindrome")
+        print(test_str, "is not a palindrome")
         break
 
 if y == len(new_str):
